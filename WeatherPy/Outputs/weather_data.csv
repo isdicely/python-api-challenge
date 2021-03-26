@@ -1,4 +1,4 @@
-City,Country,Latitude,Longitude,Temperature,Humidity,Cloud %,Wind Speed
+City,Country,Latitude,Longitude,Temperature (F),Humidity %,Cloudiness %,Wind Speed (mph)
 Chumphon,TH,10.3333,98.8333,89.51,55.0,40.0,8.05
 Djibouti,DJ,11.5,42.5,82.4,61.0,1.0,6.91
 Rikitea,PF,-23.1203,-134.9692,80.24,72.0,98.0,21.05
